@@ -1,3 +1,3 @@
-trojan://9f347046-a2b7-4a3d-b55e-a440e89ae1fb@suzuki.codered.cloud:443?security=tls&sni=suzuki.codered.cloud&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=suzuki.codered.cloud&path=%2F9f347046#Code-Red_23-Nov_US
+
 ss://bm9uZTo5ZjM0NzA0Ni1hMmI3LTRhM2QtYjU1ZS1hNDQwZTg5YWUxZmI@suzuki.codered.cloud:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dsuzuki.codered.cloud%3Bpath%3D%2F9f347046%3Btls%3Bmux%3D0#Code-Red_23-Nov_US
-vless://9f347046-a2b7-4a3d-b55e-a440e89ae1fb@suzuki.codered.cloud:443?encryption=none&security=tls&sni=suzuki.codered.cloud&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=suzuki.codered.cloud&path=%2F9f347046#Code-Red_23-Nov_US
+
